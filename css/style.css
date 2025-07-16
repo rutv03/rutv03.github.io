@@ -1429,7 +1429,7 @@ body.offcanvas {
   opacity: 0; }
 
 .profile-photo {
-  width: 140px;
+  width: 180px;
   height: 180px;
   object-fit: cover;
   margin: 0 auto 20px;
