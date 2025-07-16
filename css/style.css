@@ -1427,3 +1427,14 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
+
+.profile-photo {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 auto 20px;
+  display: block;
+  border: 2px solid #ddd;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
