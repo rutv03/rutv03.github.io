@@ -1431,7 +1431,6 @@ body.offcanvas {
 .profile-photo {
   width: 140px;
   height: 140px;
-  border-radius: 50%;
   object-fit: cover;
   margin: 0 auto 20px;
   display: block;
